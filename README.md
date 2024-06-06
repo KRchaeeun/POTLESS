@@ -1,7 +1,7 @@
 # ⚠️POTLESS(포트리스)⚠️
 
 
-![weblogo__1_](/uploads/c7ab1fe4cb7bb34c5dd16bfd773c5808/weblogo__1_.png)
+![image](https://github.com/KRchaeeun/POTLESS/assets/139303853/d83d40fe-f58b-42ba-a6a5-ffd718e5c6ab)
 
 # 💡서비스 소개
 
