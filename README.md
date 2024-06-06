@@ -25,7 +25,7 @@
 # 🖥️아키텍처
 
 
-![image__3___1_](/uploads/aaf857c772713e973c1b3ac21dac9f0b/image__3___1_.png)
+![image](https://github.com/KRchaeeun/POTLESS/assets/139303853/caa2f238-07a3-493c-8e34-e20224870d51)
 
 # ⚙️기술스택
 
@@ -71,7 +71,8 @@
 # 📋ERD
 
 
-![Untitled__4_](/uploads/f8aaf4b4dbea2a4ac3e8aa0386cea068/Untitled__4_.png)
+![image](https://github.com/KRchaeeun/POTLESS/assets/139303853/ea4b9801-9413-4623-801e-969da9ead4ae)
+
 
 # 📕주요기능 및 데모영상
 
