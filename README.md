@@ -51,7 +51,7 @@
 - YOLO v8
 
 ### FrontEnd
-
+ 
 - Vue 3.4.21
 - Node.js 20.13.1
 - Flutter 3.19.5
